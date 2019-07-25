@@ -1,0 +1,120 @@
+/*patoplace*/
+.title_sec{
+	background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(images/mainhead.jpg) no-repeat;
+	height: 90vh;
+	background-size: cover;
+	background-position: center;
+
+}
+.navbar{
+	background: linear-gradient(rgba(62, 68, 65, 0.01),rgba(136, 140, 138, .3));
+	height: 100px;
+}
+.navbar .navbar-nav li a{
+	color: #fff !important;
+}
+.wm{
+	text-align: center;
+	margin-top:120px;
+}
+.wm h2{
+	 font-size: 4.2rem;
+    font-family: Margarine;
+    color: #fff;
+}
+.wm h1{
+	font-family: "Anton";
+	color: #fff;
+	font-size: 6.2rem;
+}
+.wm button{
+	color:#ff5170;
+}
+.navbar .navbar-nav li{
+	margin: 10px; 
+	padding: 10px;
+}
+.navbar .navbar-nav i{
+	color: #fff;
+}
+#contant{
+	background: linear-gradient(rgb(219, 219, 219),rgba(230, 224, 224, 0.73)),url(images/cont2.jpg) no-repeat;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+.cain .got1{
+	padding: 15% 6%;
+	text-align: center;
+
+}
+.cain .got{
+	margin: 10% 12%;
+
+}
+.cain h2{
+	font-family: "Srisakdi";
+	font-weight: bold;
+	color:#0042ff;
+}
+.cain h1{
+	font-family: "Anton";
+	font-size: 4.2rem;
+}
+.cain img{
+	width: 400px;
+	border: 2px;
+	border-radius: 12px;
+}
+#features{
+    padding: 7% 8%;
+    background: linear-gradient(rgba(121, 45, 0, 0.83),rgb(79, 26, 82)),url(images/mid4.jpg) no-repeat;
+    color: #fff0a1;
+    height: 100vh;
+    font-family: 'Satisfy', cursive;
+}
+#features img{
+	width: 350px;
+	border-radius: 10px;
+}
+#features .row{
+	margin-top: 90px;
+}
+#features .boxx{
+}
+
+/*cta zone*/
+#cta {
+
+    background: linear-gradient(rgb(231, 139, 161),rgba(252, 215, 8, 0.82));
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
+.two .col{
+	padding: 3% 4%;
+}
+
+
+/*footer zone*/
+
+#footer{
+	height: 100%;
+    background-color:#131313fa;
+    color: #fff;
+}
+#footer .col-sm{
+	padding:10% 0%;
+}
+#footer h3{
+	margin: 45px 0px;
+}
+#footer .ic{
+	padding-right: 18px;
+    color: #a75917;
+}
